@@ -10,5 +10,5 @@ double add(int a, int b) {
 }
 
 void info() {
-    IO.println("Information two line");
+    IO.println("Information one line");
 }
