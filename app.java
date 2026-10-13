@@ -8,3 +8,7 @@ void main() {
 double add(int a, int b) {
     return a + b;
 }
+
+void info() {
+    IO.println("Information");
+}
